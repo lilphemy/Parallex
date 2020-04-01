@@ -1,1 +1,2 @@
-# gallery
+# Parallex
+https://lilphemy.github.io/Parallex/
