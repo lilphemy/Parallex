@@ -1,0 +1,143 @@
+body {
+height: 100%;
+width: 100%;
+text-align:center;
+
+
+
+}
+
+
+.par1 {
+background-image: URL('Images/Jeep.jpg');
+background-attachment:fixed;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height:500px;
+width: auto;
+margin: 10px;
+z-index: -2;
+
+}
+
+
+
+.par2 {
+background-image: URL('images/img3.jpg');
+background-attachment:fixed;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height:500px;
+width: auto;
+margin:10px;
+z-index: -2;
+
+}
+
+
+
+.par3 {
+
+background-image: URL('images/Mobile.jpg');
+background-attachment: fixed;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height: 500px;
+width: auto; 
+z-index: -2;
+
+
+}
+
+
+.par4 {
+
+background-image: URL('images/img6.jpg');
+background-attachment: fixed;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height: 500px;
+width: auto; 
+z-index: -2;
+
+
+}
+
+
+
+.par5 {
+
+background-image: URL('images/Img16.jpeg');
+background-attachment: fixed;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height: 500px;
+width: auto;
+ z-index: -2;
+
+
+}
+
+
+
+H1 {
+background-color: rgba(200, 200, 200, 0.2);
+font-family: Helvetica;
+color: #ff2222;
+border-radius: 10%;
+
+
+
+}
+
+
+
+h2 {
+background-color: rgba(200, 200, 200, 0.2);
+font-family:sans-serif;
+color: #ff2222;
+border-radius: 10%;
+
+
+}
+
+
+#treat {
+position: relative;
+height: 40px;
+width: 300px;
+margin: 20px;
+border-radius: 25%;
+background-color: rgba(34, 48, 70, 0.6);
+font-family: Helvetica;
+font-size: 20px;
+color: #ff2222;
+bold: 4px;
+
+
+
+
+}
+
+
+
+footer {
+color: #ff2222;
+
+
+}
+
+
+#gag {
+height: 30px;
+width: 30px;
+
+
+}
+
+
